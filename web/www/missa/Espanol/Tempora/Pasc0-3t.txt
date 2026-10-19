@@ -6,7 +6,7 @@ Miércoles de Pascua
 
 [Oratio]
 ¡Oh Dios!, que nos alegras con la solemnidad anual de la resurrección del Señor; concédenos que, por las fiestas que en el tiempo celebramos, merezcamos llegar a los eternos goces.
-$Per eumdem
+$Per eundem
 
 [Lectio]
 Lectura de los Hechos de los Apóstoles
